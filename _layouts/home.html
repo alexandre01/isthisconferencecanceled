@@ -26,6 +26,7 @@ layout: default
 
 
   {%- for post in posts -%}
+{{ file.path }}
     {% if file.path contains "canceled-conferences.md" %}
 {{ file.content }}
     {% endif %}
