@@ -4,7 +4,6 @@ layout: post
 badges: true
 comments: true
 description: Canceled Conferences
-categories: [markdown]
 ---
 
 ## Coronavirus Conference: canceled
