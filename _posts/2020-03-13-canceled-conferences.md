@@ -1,6 +1,8 @@
 ---
 toc: true
 layout: post
+badges: true
+comments: true
 description: Canceled Conferences
 categories: [markdown]
 ---
