@@ -7,7 +7,7 @@ description: Canceled Conferences
 ---
 
 <div class="pb-5 d-flex flex-wrap flex-justify-end">
-{% include notebook_github_link.html %}
+{% include edit_github_link.html %}
 </div>
 
 ## • Coronavirus Conference
