@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Is This Conference Canceled?
-description: An academic version of <https://www.isitcanceledyet.com>
+description: An academic version of <a href="https://www.isitcanceledyet.com">isitcanceledyet.com</a>
 github_username: alexandre01
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "isthisconferencecanceled"
