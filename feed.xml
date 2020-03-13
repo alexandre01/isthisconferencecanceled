@@ -1,4 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://isthisconferencecanceled.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isthisconferencecanceled.com/" rel="alternate" type="text/html" /><updated>2020-03-12T22:18:31-05:00</updated><id>https://isthisconferencecanceled.com/feed.xml</id><title type="html">Is This Conference Canceled?</title><subtitle>An academic version of isitcanceledyet.com</subtitle><entry><title type="html">Canceled Conferences</title><link href="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html" rel="alternate" type="text/html" title="Canceled Conferences" /><published>2020-03-13T00:00:00-05:00</published><updated>2020-03-13T00:00:00-05:00</updated><id>https://isthisconferencecanceled.com/2020/03/13/canceled-conferences</id><content type="html" xml:base="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html">&lt;h2 id=&quot;-coronavirus-conference&quot;&gt;• Coronavirus Conference:&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://isthisconferencecanceled.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isthisconferencecanceled.com/" rel="alternate" type="text/html" /><updated>2020-03-12T22:24:17-05:00</updated><id>https://isthisconferencecanceled.com/feed.xml</id><title type="html">Is This Conference Canceled?</title><subtitle>An academic version of isitcanceledyet.com</subtitle><entry><title type="html">Canceled Conferences</title><link href="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html" rel="alternate" type="text/html" title="Canceled Conferences" /><published>2020-03-13T00:00:00-05:00</published><updated>2020-03-13T00:00:00-05:00</updated><id>https://isthisconferencecanceled.com/2020/03/13/canceled-conferences</id><content type="html" xml:base="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html">&lt;div class=&quot;pb-5 d-flex flex-wrap flex-justify-end&quot;&gt;
+&lt;div class=&quot;px-2&quot;&gt;
+
+    &lt;a href=&quot;https://github.com/alexandre01/isthisconferencecanceled/tree/master/_posts/2020-03-13-canceled-conferences.md&quot; role=&quot;button&quot;&gt;
+&lt;img class=&quot;notebook-badge-image&quot; src=&quot;/assets/badges/github.svg&quot; alt=&quot;View On GitHub&quot; /&gt;
+    &lt;/a&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;-coronavirus-conference&quot;&gt;• Coronavirus Conference&lt;/h2&gt;
 
 &lt;div class=&quot;flash flash-error&quot;&gt;
     &lt;svg class=&quot;octicon octicon-x&quot; viewBox=&quot;0 0 12 16&quot; version=&quot;1.1&quot; width=&quot;12&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
@@ -7,7 +16,7 @@
 
 &lt;p&gt;Source: &lt;a href=&quot;https://www.bloomberg.com/news/articles/2020-03-10/coronavirus-conference-gets-canceled-because-of-coronavirus&quot;&gt;https://www.bloomberg.com/news/articles/2020-03-10/coronavirus-conference-gets-canceled-because-of-coronavirus&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;-iclr-conference&quot;&gt;• ICLR Conference:&lt;/h2&gt;
+&lt;h2 id=&quot;-iclr-conference&quot;&gt;• ICLR Conference&lt;/h2&gt;
 
 &lt;div class=&quot;flash flash-error&quot;&gt;
     &lt;svg class=&quot;octicon octicon-x octicon octicon-x&quot; viewBox=&quot;0 0 12 16&quot; version=&quot;1.1&quot; width=&quot;12&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
@@ -17,4 +26,4 @@
 &lt;p&gt;Source:&lt;/p&gt;
 &lt;div class=&quot;jekyll-twitter-plugin&quot;&gt;&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Due to  concerns about COVID-19, &lt;a href=&quot;https://twitter.com/hashtag/ICLR2020?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#ICLR2020&lt;/a&gt; will cancel its physical conference this year, and instead host a fully virtual conference. Our initial guidance for presenters and attendees, see &lt;a href=&quot;https://t.co/5eUPI3gldi&quot;&gt;https://t.co/5eUPI3gldi&lt;/a&gt;&lt;/p&gt;&amp;mdash; ICLR 2020 (@iclr_conf) &lt;a href=&quot;https://twitter.com/iclr_conf/status/1237514819651207169?ref_src=twsrc%5Etfw&quot;&gt;March 10, 2020&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
-&lt;/div&gt;</content><author><name></name></author><summary type="html">• Coronavirus Conference:</summary></entry></feed>
+&lt;/div&gt;</content><author><name></name></author><summary type="html"></summary></entry></feed>
