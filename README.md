@@ -8,8 +8,9 @@ https://isthisconferencecanceled.com
 
 # Is This Conference Canceled?
 
-_An academic version of <https://www.isitcanceledyet.com>
+_An academic version of [isitcanceledyet](https://www.isitcanceledyet.com)
+
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 ## Contribute
-Any conference you'd like to see on <https://isthisconferencecanceled.com>? Simply submit a pull request!
+Any conference you'd like to see added to [isthisconferencecanceled](https://isthisconferencecanceled.com)? Simply submit a pull request!
