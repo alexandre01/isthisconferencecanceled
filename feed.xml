@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://isthisconferencecanceled.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isthisconferencecanceled.com/" rel="alternate" type="text/html" /><updated>2020-03-12T22:27:40-05:00</updated><id>https://isthisconferencecanceled.com/feed.xml</id><title type="html">Is This Conference Canceled?</title><subtitle>An academic version of isitcanceledyet.com</subtitle><entry><title type="html">Canceled Conferences</title><link href="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html" rel="alternate" type="text/html" title="Canceled Conferences" /><published>2020-03-13T00:00:00-05:00</published><updated>2020-03-13T00:00:00-05:00</updated><id>https://isthisconferencecanceled.com/2020/03/13/canceled-conferences</id><content type="html" xml:base="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html">&lt;div class=&quot;pb-5 d-flex flex-wrap flex-justify-end&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://isthisconferencecanceled.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://isthisconferencecanceled.com/" rel="alternate" type="text/html" /><updated>2020-03-12T22:31:19-05:00</updated><id>https://isthisconferencecanceled.com/feed.xml</id><title type="html">Is This Conference Canceled?</title><subtitle>An academic version of isitcanceledyet.com</subtitle><entry><title type="html">Canceled Conferences</title><link href="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html" rel="alternate" type="text/html" title="Canceled Conferences" /><published>2020-03-13T00:00:00-05:00</published><updated>2020-03-13T00:00:00-05:00</updated><id>https://isthisconferencecanceled.com/2020/03/13/canceled-conferences</id><content type="html" xml:base="https://isthisconferencecanceled.com/2020/03/13/canceled-conferences.html">&lt;div class=&quot;pb-5 d-flex flex-wrap flex-justify-end&quot;&gt;
 &lt;div class=&quot;px-2&quot;&gt;
 
     &lt;a href=&quot;https://github.com/alexandre01/isthisconferencecanceled/tree/master/_posts/2020-03-13-canceled-conferences.md&quot; role=&quot;button&quot;&gt;
-&lt;img class=&quot;notebook-badge-image&quot; src=&quot;/assets/badges/github.svg&quot; alt=&quot;View On GitHub&quot; /&gt;
+&lt;img class=&quot;notebook-badge-image&quot; src=&quot;/assets/badges/github.svg&quot; alt=&quot;Edit On GitHub&quot; /&gt;
     &lt;/a&gt;
 &lt;/div&gt;
+
 &lt;/div&gt;
 
 &lt;h2 id=&quot;-coronavirus-conference&quot;&gt;• Coronavirus Conference&lt;/h2&gt;
@@ -18,9 +19,9 @@
 
 &lt;h2 id=&quot;-iclr-conference&quot;&gt;• ICLR Conference&lt;/h2&gt;
 
-&lt;div class=&quot;flash flash-error&quot;&gt;
-    &lt;svg class=&quot;octicon octicon-x octicon octicon-x&quot; viewBox=&quot;0 0 12 16&quot; version=&quot;1.1&quot; width=&quot;12&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M7.48 8l3.75 3.75-1.48 1.48L6 9.48l-3.75 3.75-1.48-1.48L4.52 8 .77 4.25l1.48-1.48L6 6.52l3.75-3.75 1.48 1.48L7.48 8z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
-    &lt;strong&gt;Canceled&lt;/strong&gt;
+&lt;div class=&quot;flash flash-warn&quot;&gt;
+    &lt;svg class=&quot;octicon octicon-device-camera-video&quot; viewBox=&quot;0 0 16 16&quot; version=&quot;1.1&quot; width=&quot;16&quot; height=&quot;16&quot; aria-hidden=&quot;true&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M15.2 2.09L10 5.72V3c0-.55-.45-1-1-1H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h8c.55 0 1-.45 1-1V9.28l5.2 3.63c.33.23.8 0 .8-.41v-10c0-.41-.47-.64-.8-.41z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;
+    &lt;strong&gt;Virtualized&lt;/strong&gt;
 &lt;/div&gt;
 
 &lt;p&gt;Source:&lt;/p&gt;
