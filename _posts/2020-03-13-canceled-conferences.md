@@ -6,12 +6,16 @@ comments: true
 description: Canceled Conferences
 ---
 
-## • Coronavirus Conference:
+<div class="pb-5 d-flex flex-wrap flex-justify-end">
+{% include notebook_github_link.html %}
+</div>
+
+## • Coronavirus Conference
 
 {% include canceled.html %}
 Source: <https://www.bloomberg.com/news/articles/2020-03-10/coronavirus-conference-gets-canceled-because-of-coronavirus>
 
-## • ICLR Conference:
+## • ICLR Conference
 
 {% include canceled.html %}
 Source:
