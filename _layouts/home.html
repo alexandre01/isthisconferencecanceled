@@ -17,7 +17,6 @@ layout: default
   {% endif %}
 
   {%- for post in rawposts -%}
-{{ post.path }}
     {% if post.path contains "canceled-conferences.md" %}
 {{ post.content }}
     {% endif %}
