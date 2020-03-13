@@ -8,7 +8,7 @@ https://isthisconferencecanceled.com
 
 # Is This Conference Canceled?
 
-_An academic version of [isitcanceledyet](https://www.isitcanceledyet.com)
+_An academic version of [isitcanceledyet](https://www.isitcanceledyet.com)_
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
