@@ -12,7 +12,7 @@ description: Canceled Conferences
 
 ## • Coronavirus Conference
 
-{% canceled %}
+{% include canceled.html %}
 Source: <https://www.bloomberg.com/news/articles/2020-03-10/coronavirus-conference-gets-canceled-because-of-coronavirus>
 
 ## • ICLR Conference
