@@ -16,19 +16,10 @@ layout: default
     {% assign rawposts = site.posts %}
   {% endif %}
 
-  <!-- Hide posts if front matter flag hide:true -->
-  {% assign posts = ''|split:'' %}
-  {% for post in rawposts %}
-    {% if post.hide != true %}
-      {% assign posts = posts|push:post%}
-    {% endif %}
-  {% endfor %}
-
-
-  {%- for post in posts -%}
-{{ file.path }}
-    {% if file.path contains "canceled-conferences.md" %}
-{{ file.content }}
+  {%- for post in rawposts -%}
+{{ post.path }}
+    {% if post.path contains "canceled-conferences.md" %}
+{{ post.content }}
     {% endif %}
   {% endfor %}
 
